@@ -23,3 +23,7 @@ function sayGreetings() {
 }
 
 sayGreetings();
+
+let sayHello = new Function(console.log("Hello"));
+
+sayHello();
