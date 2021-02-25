@@ -17,3 +17,9 @@ if (DevPlatform == "Cisco Dev Platform");
 let greetings = "Take Care!";
 
 console.log(greetings);
+
+function sayGreetings() {
+    console.log("Hi");
+}
+
+sayGreetings();
