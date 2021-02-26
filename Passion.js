@@ -27,3 +27,5 @@ sayGreetings();
 let sayHello = new Function(console.log("Hello"));
 
 sayHello();
+
+console.log("I tried Objective C, but I like Javascript better");
