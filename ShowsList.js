@@ -6,3 +6,4 @@ console.log("CSI Vegas");
 console.log("CSI New York");
 console.log("CSI Miami");
 console.log("CSI Cyber");
+console.log("The Rookie");
