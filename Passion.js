@@ -39,3 +39,6 @@ console.log("I am starting to fall in love with science");
 let sayBye = new Function(console.log("Good Bye"));
 
 sayBye();
+sayHello();
+sayBye();
+sayGreetings();
