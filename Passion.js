@@ -33,3 +33,4 @@ console.log("I will study Swift in a few minutes");
 
 console.log("I love studying");
 console.log("I really love GitHub!!!");
+console.log("I am starting to love math");
