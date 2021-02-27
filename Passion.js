@@ -35,3 +35,7 @@ console.log("I love studying");
 console.log("I really love GitHub!!!");
 console.log("I am starting to love math");
 console.log("I am starting to fall in love with science");
+
+let sayBye = new Function(console.log("Good Bye"));
+
+sayBye();
