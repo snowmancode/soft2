@@ -42,3 +42,9 @@ sayBye();
 sayHello();
 sayBye();
 sayGreetings();
+sayGreetings();
+sayHello();
+
+
+
+sayHello();
