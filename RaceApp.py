@@ -11,4 +11,6 @@ print("\n", occupation);
 print("\n", hobby);
 print("\n", ethnicity);
 print("\n\n");
+print("Take care!");
+print("\n\n");
 print(fancy_line);
