@@ -12,5 +12,6 @@ print("\n", hobby);
 print("\n", ethnicity);
 print("\n\n");
 print("Take care!");
+print("Good Bye!");
 print("\n\n");
 print(fancy_line);
