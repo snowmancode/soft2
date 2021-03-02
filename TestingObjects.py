@@ -15,3 +15,7 @@ print(Person.greet)
 Thomas = Person()
 print(Thomas.age)
 Thomas.greet()
+
+Bruce_Wayne = Person()
+print(Bruce_Wayne.age)
+Bruce_Wayne.greet()
