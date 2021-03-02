@@ -19,3 +19,15 @@ Thomas.greet()
 Bruce_Wayne = Person()
 print(Bruce_Wayne.age)
 Bruce_Wayne.greet()
+
+class Hero:
+    
+    age = 20
+
+    def greet(self):
+        print('No introduction is need...')
+
+Batman = Hero()
+print(Batman.age)
+Batman.greet()
+
