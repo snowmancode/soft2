@@ -12,6 +12,6 @@ print(Person.age)
 
 print(Person.greet)
 
-foo = Person()
-
-foo.greet()
+Thomas = Person()
+print(Thomas.age)
+Thomas.greet()
