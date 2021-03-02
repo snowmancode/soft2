@@ -31,3 +31,11 @@ Batman = Hero()
 print(Batman.age)
 Batman.greet()
 
+Superman = Person()
+print(Superman.age)
+Superman.greet()
+
+Superman = Hero()
+print(Superman.age)
+Superman.greet()
+
