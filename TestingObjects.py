@@ -38,4 +38,6 @@ Superman.greet()
 Superman = Hero()
 print(Superman.age)
 Superman.greet()
+Superman.greet()
+
 
